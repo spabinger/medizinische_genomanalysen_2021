@@ -58,17 +58,40 @@ TBA
 
 #### Student groups 
 1. Illumina basespace  --  https://basespace.illumina.com/home/index 
-   * xx
+   * Kerndl	Martina
+   * Kollros	Dominik
+   * Szaffich	Sarah
+   * Szechenyi	Philipp
+   * Umlauf	Ellen
 
 2. Maser  --  http://cell-innovation.nig.ac.jp/maser/index_en.html
-   * xx
-   * 
+   * Benkö Alexander
+   * Cozzarini Helena
+   * Kaiser	Manfred
+   * Senk	Stefan   
+   * Waldherr	Monika
+
 3. Galaxy  --  https://main.g2.bx.psu.edu/ 
-   * xx
+   * Binnyei	Christian
+   * Lin	Grace
+   * Schiller	Jacqueline
+   * Wanka	Philipp
+   * Zechmeister	Alexander
+
 4. Chipster  --  http://chipster.csc.fi/ 
-   * xx
+   * Cirovic	Natasa
+   * Kotzian	Andreas
+   * Salzmann	Martina
+   * Schinogl	Eric 
+   * Tatzber	Julia
+   * Zhang	Lijuan
+
 5. GenePattern  --  https://cloud.genepattern.org/
-   * xx
+   * Brunner	Bernd
+   * Polzer	Daniel
+   * Singer	Benedikt
+   * Terzijski	Alexander
+   * Tucek	Lisa
 
 
 *Backup: https://www.basepairtech.com/*
