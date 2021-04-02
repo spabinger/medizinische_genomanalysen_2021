@@ -1,15 +1,17 @@
 # Medizinische Genomanalysen 2021
 Material and information about the lecture "Medizinische Genomanalysen" 2021
 
-## Overview
+
+## Grading
+* 50% assignments
+* 50% student projects & presentation
+
+## Assignment Overview
+* Link for assignment will be sent out
 * Clone the classroom repository of each assignment
 * Each student needs to work on his/her assignment (no team work)
 * When done, commit and push the results to your github repository
 * All assignments need to be completed by **16.05.2021**
-
-## Grading
-* 50% assignment
-* 50% student projects & presentation
 
 ## Python packages
 * Biopython (http://biopython.org/)
