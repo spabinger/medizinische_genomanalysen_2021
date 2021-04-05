@@ -16,6 +16,7 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
 ## Python packages
 * Biopython (http://biopython.org/)
 * pybedtools (https://daler.github.io/pybedtools/)
+* Bed tutorial - (http://quinlanlab.org/tutorials/bedtools/bedtools.html)
 * NCBI (http://biopython.org/DIST/docs/api/Bio.Entrez-module.html)
 * pybam (https://github.com/JohnLonginotto/pybam)
 * pysam (http://pysam.readthedocs.io/en/latest/usage.html)
