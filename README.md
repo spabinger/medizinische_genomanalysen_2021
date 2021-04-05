@@ -23,6 +23,7 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
 * pyvcf (http://pyvcf.readthedocs.io/en/latest/)
 * HGVS - does only work with Python2! (https://hgvs.readthedocs.io/en/master/)
 * pyfaidx
+* pyranges - efficient comparison of genomic intervals in Python (https://pubmed.ncbi.nlm.nih.gov/31373614/)
 
 
 
