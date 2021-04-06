@@ -31,6 +31,7 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
 ## Assignment 1
 * ``conda install --channel conda-forge --channel bioconda pybedtools``
 * Genome coverage - https://daler.github.io/pybedtools/autodocs/pybedtools.bedtool.BedTool.genome_coverage.html?highlight=coverage#pybedtools.bedtool.BedTool.genome_coverage
+* https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
 
 ## Assignment 2
 TBA
