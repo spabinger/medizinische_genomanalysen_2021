@@ -29,7 +29,7 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
 
 
 ## Assignment 1
-TBA
+``conda install --channel conda-forge --channel bioconda pybedtools``
 
 ## Assignment 2
 TBA
