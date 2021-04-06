@@ -71,23 +71,21 @@ TBA
    * Umlauf	Ellen
 
 2. Maser  --  http://cell-innovation.nig.ac.jp/maser/index_en.html
-   * Benkö Alexander
    * Cozzarini Helena
    * Kaiser	Manfred
+   * Salzmann	Martina
    * Senk	Stefan   
    * Waldherr	Monika
 
 3. Galaxy  --  https://main.g2.bx.psu.edu/ 
    * Binnyei	Christian
    * Lin	Grace
-   * Schiller	Jacqueline
    * Wanka	Philipp
    * Zechmeister	Alexander
 
 4. Chipster  --  http://chipster.csc.fi/ 
    * Cirovic	Natasa
    * Kotzian	Andreas
-   * Salzmann	Martina
    * Schinogl	Eric 
    * Tatzber	Julia
    * Zhang	Lijuan
