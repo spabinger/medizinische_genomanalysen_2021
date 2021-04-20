@@ -99,7 +99,7 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
    * Tucek	Lisa
 
 
-*Backup: https://www.basepairtech.com/ ,  https://www.strand-ngs.com , (https://www.dnanexus.com/)*
+*Backup: https://www.basepairtech.com/ , https://ionreporter.thermofisher.com , https://www.strand-ngs.com , (https://www.dnanexus.com/)*
 
 
 
