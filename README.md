@@ -54,9 +54,9 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
 
 #### Perform the following steps (if supported)
 1. Data Import – take FASTQ files from:
-   * *Illumina:  ftp://ftp-trace.ncbi.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/NIST_Illumina_2x250bps/reads/ * 
-   * *Ion Torrent: (Only for Ion Reporter)  ftp://ftp-trace.ncbi.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/ion_exome/ *
-   * *Requirement: human, genome (no RNASeq, methylation, …)*
+   * Illumina: ftp-trace.ncbi.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/NIST_Illumina_2x250bps/reads/  
+   * Ion Torrent: (Only for Ion Reporter) ftp-trace.ncbi.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/ion_exome/ 
+   * Requirement: human, genome (no RNASeq, methylation, …)
 2. Quality Control & QC Report
 3. Mapping
 4. Variant Calling (SNV, Indel)
