@@ -39,6 +39,7 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
 
 ## Assignment 3
 * Added pandas to available packages in the autograder setup
+* **get_list_of_genes()** do not return the list of genes but the number of elements in the list of genes
 
 
 ## Student projects
