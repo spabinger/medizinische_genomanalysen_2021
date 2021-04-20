@@ -80,7 +80,8 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
 
 3. Galaxy  --  https://main.g2.bx.psu.edu/ 
    * Binnyei	Christian
-   * Lin	Grace
+   * ~~Lin	Grace~~
+   * Polzer	Daniel
    * Wanka	Philipp
    * Zechmeister	Alexander
 
@@ -93,7 +94,7 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
 
 5. GenePattern  --  https://cloud.genepattern.org/
    * Brunner	Bernd
-   * Polzer	Daniel
+   
    * Singer	Benedikt
    * Terzijski	Alexander
    * Tucek	Lisa
