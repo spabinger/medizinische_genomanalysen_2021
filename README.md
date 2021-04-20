@@ -93,8 +93,7 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
    * Zhang	Lijuan
 
 5. GenePattern  --  https://cloud.genepattern.org/
-   * Brunner	Bernd
-   
+   * Brunner	Bernd   
    * Singer	Benedikt
    * Terzijski	Alexander
    * Tucek	Lisa
