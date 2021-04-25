@@ -58,7 +58,8 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
 
 #### Your TODOs
 1. Perform 6 analysis steps (if possible) using FASTQ files (subset your file to speed up the analysis)
-2. Per group present the selected software and the performed analysis
+2. Check which steps are supported
+3. Per group present the selected software and the performed analysis
    * Software: 10min 
    * Results: 10min
 
@@ -69,7 +70,7 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
    * Ion Torrent: (Only for Ion Reporter) ftp-trace.ncbi.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/ion_exome/ 
    * Requirement: human, genome (no RNASeq, methylation, …)
 2. Quality Control & QC Report
-3. Mapping
+3. Mapping (use hg38 if available)
 4. Variant Calling (SNV, Indel)
 5. Variant Annotation
 6. Interpretation & Decision Making
