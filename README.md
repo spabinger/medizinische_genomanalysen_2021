@@ -40,6 +40,16 @@ Material and information about the lecture "Medizinische Genomanalysen" 2021
 ## Assignment 3
 * Added pandas to available packages in the autograder setup
 * **get_list_of_genes()** do not return the list of genes but the number of elements in the list of genes
+* Store the annotation result returned by myvariant.info
+  * ```python        
+      with open("annotation_result_1.json", "w") as file:
+            json.dump(json.loads(annotation_result), file)
+    ```
+  * ```python        
+      with open(self.annotation_result_path, "w") as af:
+          for line in annotation_result:
+              af.write(line)
+    ```
 
 
 ## Student projects
